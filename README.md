@@ -1,6 +1,6 @@
 # Hi, I’m Nicolás Zubiaur 🇲🇽
 
-👨‍💻 **Director at [Enacment](https://enacment.com)** — your strategic partner in digital development. With more than **15 years of experience in software and technology**, I help businesses reach their maximum potential through **innovative and scalable solutions**:contentReference[oaicite:0]{index=0}.
+👨‍💻 **Director at [Enacment](https://enacment.com)** — your strategic partner in digital development. With more than **15 years of experience in software and technology**, I help businesses reach their maximum potential through **innovative and scalable solutions**
 
 🧠 **Tech strategist** with expertise in software development, UX design, process automation, data analytics and location intelligence. I lead dynamic teams of developers and designers to build products that make a real impact.
 
